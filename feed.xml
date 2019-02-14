@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Odette, der kleine Polarwolf</title>
+<link>http://www.example.com/</link>
+<language>de-DE</language>
+<itunes:subtitle>Unser Podcast</itunes:subtitle>
+<itunes:author>Die 3 kleiner Köche aus Belgien</itunes:author>
+<itunes:summary>Alles um Odette</itunes:summary>
+<description>Alles um Odette</description>
+<itunes:owner>
+    <itunes:name>Owner Name</itunes:name>
+    <itunes:email>me@example.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+
+<image>
+  <url>https://aba-dba.github.io/Polarwolf/image.jpg</url>
+  <title>Odette, der kleine Polarwolf</title>
+  <link>http://www.example.com/</link>
+</image>
+
+<item>
+    <title>Odette und sein kleiner Freund</title>
+    <description>Odette und sein kleiner Freund</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="https://aba-dba.github.io/Polarwolf/media/Adrian.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 13 Feb 2019 15:00:00 +0100</pubDate>
+    <itunes:author>Adrian</itunes:author>
+    <itunes:duration>1:11</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-1</guid>
+</item>
+
+<item>
+    <title>Odette und sein Freund der Eisbär</title>
+    <description>Odette und sein Freund der Eisbär</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="https://aba-dba.github.io/Polarwolf/media/Dario.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 13 Feb 2019 15:02:00 +0100</pubDate>
+    <itunes:author>Dario</itunes:author>
+    <itunes:duration>2:25</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://example.com/podcast-2</guid>
+</item>
+
+<item>
+    <title>Odette und die Jäger</title>
+    <description>Odette und die Jäger</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="https://aba-dba.github.io/Polarwolf/media/Adrian2.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 13 Feb 2019 18:00:00 +0000</pubDate>
+    <guid>http://example.com/podcast-3</guid>
+</item>
+
+</channel>
+</rss>
